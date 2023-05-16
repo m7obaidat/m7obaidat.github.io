@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styleforJUST.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad Obeidat </title>
+</head>
+<body style="background-color:#ABCDEF;">
+<!--<img src="200302.png" width="9.5%"height="10.5%">-->
+<center>
+<a  href="https://www.just.edu.jo/Pages/Default.aspx" target="_blank"><img src="LOGO JUST.png" width="9.5%" height="10.5%"></a>
+<h2>Jordan University of Science and Technology</h2>
+</center>
+<hr>
+<!--<img src = "ME.jpg"  height="300px" alt="Mohammad Obeidat " style="position:middle;margin-left: 570PX;">-->
+<center>
+<!--<h6>Course Name : CIS 201 - INTRODUCTION TO WEB DESIGN ..... <br>     section : 1 </h6>-->
+<img src="03.jpg" width="15%"height=15%>
+<table border="2" class="CEN" style="align-items: center;">
+<!--<center><caption style="color:black;font-weight:bolder ;position:center;font-size:20px;">Inforamation About Me </caption></center>-->
+<tr >
+    <th colspan="2" class="just">Jordan University of Science and Technology</th>
+</tr>
+
+<tr>
+<th>NAME</th>
+<td>Mohammad Jihad Taleb Obeidat </td>
+</tr>
+
+<th>Major</th>
+<td>Cyber Security</td>
+</tr>
+<tr>
+    <th>Favorite programming language</th>
+    <td>PYTHON</td>
+</tr>
+
+<tr>
+    <th>My Hoppies</th>
+    <td>Programming and <a href="https://www.geeksforgeeks.org/what-is-ctfs-capture-the-flag/" target="_blank">CTF<span style="font-size:10px;">(for more about ctf click here )</span></a> </td>
+</tr>
+<tr>
+    <th>Achievements</th><td><a href="https://www.youtube.com/watch?v=lPN66OG0HXg" target="_blank">NCSC "محاربو السايبر"competition top #12</a></td>
+</tr>
+<tr>
+    <th>MY CTF Team </th><td>CPU Hackers (Leader)</td>
+</tr>
+
+
+<tr>
+    <th colspan="2"><a href="mailto:mjobaidat21@cit.just.edu.jo">mjobaidat21@cit.just.edu.jo</a></th>
+    
+</tr>
+<tr>
+    <th colspan="2"><a href="https://www.linkedin.com/in/mohammad-obeidat-5a5a28229/" target="_blank">My LinkedIN </a></th>
+    
+</tr>
+<tfoot>
+<tr>
+    <th colspan="2"><a href="Mo.Obeidat Resume .pdf" download>My Resume</a> </th>
+</tr>
+<tr>
+    <th style="color:White;font-size:20px;background-color:#3383e5"colspan="2">Inforamation About Me</th>
+</tr>
+</tfoot>
+</table>
+
+<!--<img src = "ME3.jpg"  width="50%px" height="400px" alt="Mohammad Obeidat " style="position:middle;margin-left: 370PX;">
+<img src = "ME4.jpg"  width="50%px" height="400px" alt="Mohammad Obeidat " style="position:middle;margin-left: 370PX;">
+<img src = "NCSC.jpg"  width="50%px" height="400px" alt="Mohammad Obeidat " style="position:middle;margin-left: 370PX;">-->
+</center>
+</body>
+</html>
